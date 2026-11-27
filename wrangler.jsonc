@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "allure-by-bisma",
+  "compatibility_date": "2026-11-27",
+  "observability": { "enabled": true },
+  "assets": {
+    "directory": "./website",
+    "not_found_handling": "404-page"
+  }
+}
