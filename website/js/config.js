@@ -16,7 +16,7 @@ window.ALLURE_CONFIG = {
   whatsappNumber: "",
 
   phoneDisplay: "+92 300 0000000",                    // TODO: number as shown on the page
-  email: "",                                           // TODO: optional, e.g. "hello@allurebybisma.com"
+  email: "arfayousafzai040@gmail.com",                                           // TODO: optional, e.g. "hello@allurebybisma.com"
   address: "Salon address, Street, City",              // TODO
   mapEmbedUrl: "",                                     // TODO: optional Google Maps "Embed a map" src URL
   mapLinkUrl: "",                                      // TODO: optional Google Maps share link
